@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{69B267BB-DF81-6F99-5CCF-615AAD23DDC8}</ProjectGuid>
+    <ProjectGuid>{1570F106-2F47-F3B5-1BA0-F0E3E90B656B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -261,52 +261,52 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Antlr3.Runtime">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.Core.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.Core.Runtime">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.Flow.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.Flow.Runtime">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.State.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.State.Runtime">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
     </Reference>
     <Reference Include="Ludiq.Core.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Ludiq.Core.Runtime">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Ludiq.Graphs.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Ludiq.Graphs.Runtime">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Ludiq.Platforms">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
     </Reference>
     <Reference Include="MiscUtil">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/MiscUtil.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/MiscUtil.dll</HintPath>
     </Reference>
     <Reference Include="YamlDotNet">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Assets/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Assets/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -663,42 +663,42 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/user/Desktop/backup/VisualScripting/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/user/Desktop/backup/unity3d_bolt/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="MyTestAssembly.csproj">
-      <Project>{07C2A53F-4D87-175C-6764-22009C21EB66}</Project>
+      <Project>{8BFE2B68-7795-4225-1B08-2220392FA577}</Project>
       <Name>MyTestAssembly</Name>
     </ProjectReference>
   </ItemGroup>
