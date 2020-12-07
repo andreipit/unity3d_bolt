@@ -67,6 +67,7 @@
     <Compile Include="Assets\MyAssembly\Link.cs" />
     <Compile Include="Assets\MyAssembly\TestCustomBoltScript.cs" />
     <Compile Include="Assets\MyAssembly\TestCustomBoltScript1.cs" />
+    <Compile Include="Assets\MyAssembly\TestEventTriggerFromScript.cs" />
     <Compile Include="Assets\MyAssembly\UIEvents.cs" />
     <None Include="Assets\MyAssembly\MyTestAssembly.asmdef" />
     <Reference Include="UnityEngine">
