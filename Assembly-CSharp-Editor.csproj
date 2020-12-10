@@ -697,6 +697,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{90701479-1FE1-43AE-EF10-3478842B414A}</Project>
+      <Name>Assembly-CSharp</Name>
+    </ProjectReference>
     <ProjectReference Include="MyTestAssembly.csproj">
       <Project>{8BFE2B68-7795-4225-1B08-2220392FA577}</Project>
       <Name>MyTestAssembly</Name>
